@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1476420069:AAFjSyd8zLmaHk6Bn8f3V7LrPVfCYEtsRBk',
+  TOKEN: '1535286124:AAERftR2jCc5KT_-Hzx2sK6o3KeRSvtUXEs',
   ARIA_SECRET: 'aria2_secret',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: false,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@Jstest3bot"
+    NAME: "@Jstardrivebot"
   },
   IS_TEAM_DRIVE: true,
   USE_SERVICE_ACCOUNT: false,
